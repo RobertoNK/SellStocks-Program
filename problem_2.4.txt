@@ -1,0 +1,26 @@
+Problem # 4 from Chapter 2
+Book: Java from the beginning
+
+Write a program name SellStocks that calculates the value
+of the value of a stock. The user wull be prompted to enter
+the stock price, the number of shares to be sold, and the
+commission rate. The program will calculate the value of
+the shares by multiplying the stock proce by the number of
+shares. It will also calculate the commission ( the value
+of the shares multiplied by the commission rate) and the
+net proceeds (the value of the shares minus the commission).
+The following example shows what the user will see on the
+screen:
+
+This program calculates the net proceeds from a sale of stock
+
+Enter stock price: 10.125
+Enter number of shares: 11
+Values of shares (as a percentage): 1.5
+Commission: $1.67
+Net proceeds: $109.71
+
+The stock proce, number of shares, and the commission rate may
+contain digits after the decimal point. Dollar amounts must
+rounded to the nearest cent.
+
